@@ -22,7 +22,10 @@ Tuesday = "TUESDAY",
 Wednesday = "WEDNESDAY",
 }
 console.log(Day.Monday); // "MONDAY"
-Here, each day of the week is assigned a string value. This makes the code more expressive, as the value itself clearly communicates its meaning
+Here, each day of the week is assigned a string value. This makes the code more expressive, as the value itself clearly communicates its meaning.
+
+<!-- ------------------------------- -->
+
 2.How does TypeScript help in improving code quality and project maintainability?
 Ans:-->
 TypeScript helps improve code quality and project maintainability by adding types to JavaScript, which helps catch errors early, makes code easier to understand, and keeps things organized
